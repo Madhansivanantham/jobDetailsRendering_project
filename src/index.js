@@ -8,4 +8,4 @@ import './components/Pagination.js'
 import './components/Router.js';
 import './components/Bookmarks.js'
 import './components/Storage.js'
-import '../dist/style.css';
+import '../public/style.css';
